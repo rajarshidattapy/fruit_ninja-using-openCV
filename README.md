@@ -1,4 +1,4 @@
-#Fruit Ninja Game using OpenCV
+# Fruit Ninja Game using OpenCV
 
 # Overview
 Welcome to the Fruit Ninja Game implemented using OpenCV! This project recreates the classic Fruit Ninja game, where players slice fruits that appear on the screen. The game uses computer vision techniques to detect the player's hand gestures or mouse movements to simulate the slicing action.
